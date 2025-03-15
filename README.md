@@ -1,6 +1,6 @@
 # Multi-Modal Reward Model (MMRM)
 
-This repository contains a collection of advanced reward model architectures for multi-modal preference learning, built on top of the Qwen2-VL-2B-Instruct model.
+This repository contains a pipeline of training reward model for multi-modal preference learning, built on top of the Qwen2-VL-2B-Instruct model.
 
 ## Overview
 
