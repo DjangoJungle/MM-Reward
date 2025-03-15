@@ -1,0 +1,17 @@
+{
+  "base_model": "Qwen/Qwen2-VL-2B-Instruct",
+  "lora_model": "./outputs",
+  "base_accuracy": 0.536,
+  "lora_accuracy": 0.536,
+  "accuracy_diff": 0.0,
+  "base_sample_count": 500,
+  "lora_sample_count": 500,
+  "common_sample_count": 499,
+  "base_accuracy_common": 0.5350701402805611,
+  "lora_accuracy_common": 0.5350701402805611,
+  "accuracy_diff_common": 0.0,
+  "both_correct": 267,
+  "both_wrong": 232,
+  "only_base_correct": 0,
+  "only_lora_correct": 0
+}
